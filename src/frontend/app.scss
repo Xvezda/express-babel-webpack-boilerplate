@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-size: 100%;
+}
+
+$color-white: #FFFFFF;
+$color-gray-6: #F5F5F7;
+$color-grey-5: #E0E0E0;
+$color-gray-4: #BDBDBD;
+$color-grey-3: #828282;
+$color-gray-2: #4F4F4F;
+$color-grey-1: #333333;
+$color-black: #010101;
+$color-primary: #E84C60;
+$color-secondary: #118917;
+
+body {
+  color: $color-black;
+}
